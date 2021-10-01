@@ -3,6 +3,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Bears be bears
 
 Use the left arrow to go back!
